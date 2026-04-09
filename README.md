@@ -1,9 +1,12 @@
+
+
+
 # 🐰 ByteBunny v0.1
 
 > Learn coding languages the fun way — Tauri 2 + Rust + React + Firebase
 
 ---
-
+ByteBunny 🐰 is a fast, gamified desktop coding companion built with Tauri and React. It makes learning engaging with interactive paths, daily streaks, and custom animations. Featuring a sleek UI and secure auth, it delivers native performance to supercharge your programming adventure.
 ## ✨ What's new in v0.1
 
 | Feature | Details |
